@@ -44,27 +44,4 @@
   #root, #__next {
     isolation: isolate;
   }
-  .container {
-    border: solid black 4px;
-    background-color: burlywood;
-    width: 600px;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-  }
-  .nav {
-    border: solid white 4px;
-    display: flex;
-    text-align: end;
-    gap: 20px;
-  }
-  .one {
-    border: solid red;
-    width: 250px;
-  }
-  .two {
-    border: solid blue 5px;
-  }
-  .three {
-    border: solid green 5px;
-  }
+  
